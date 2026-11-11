@@ -2,7 +2,7 @@
 
 _Effective date: November 7, 2026_
 
-Forget Less (on the App Store as "Forget Less: Daily Tasks") is a to-do app for iPhone. This policy explains what happens to your information when you use the app and its widgets.
+Forget Less (on the App Store as "Forget Less: Daily Tasks") is a to-do app for iPhone and iPad. This policy explains what happens to your information when you use the app and its widgets.
 
 **In short: Forget Less does not collect any of your data. Everything you enter stays on your device.**
 
@@ -26,12 +26,12 @@ The app and its widgets share this data through storage on your device, so the w
 
 Some data is handled by Apple's own services, under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/), not by me:
 
-- **Backups.** If you back up your iPhone to iCloud or to a computer, iOS may include Forget Less data in that backup.
-- **Crash reports and usage statistics.** If you turned on "Share With App Developers" in your iPhone's settings (Privacy & Security → Analytics & Improvements), Apple may share crash reports and anonymous usage statistics with me. These do not include your tasks. I use them only to find and fix problems in the app.
+- **Backups.** If you back up your iPhone or iPad to iCloud or to a computer, iOS or iPadOS may include Forget Less data in that backup.
+- **Crash reports and usage statistics.** If you turned on "Share With App Developers" in your device's settings (Privacy & Security → Analytics & Improvements), Apple may share crash reports and anonymous usage statistics with me. These do not include your tasks. I use them only to find and fix problems in the app.
 
 ## Widgets on the Lock Screen
 
-If you add a Forget Less widget to your Lock Screen, its task names can be seen by anyone who looks at your iPhone, even while it is locked. You can remove the widget at any time.
+If you add a Forget Less widget to your Lock Screen, its task names can be seen by anyone who looks at your iPhone or iPad, even while it is locked. You can remove the widget at any time.
 
 ## Deleting your data
 
